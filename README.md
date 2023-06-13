@@ -25,21 +25,10 @@ Here are some ideas to get you started:
  <br/>
  <br/>
   
-####  :clipboard: Once I've Used 
+####  :clipboard: This is my Blog
   
  <br/>
   
  <img src="https://img.shields.io/badge/notion-007396?style=for-the-badge&logo=Java&logoColor=white">
-
-
- 
-   <br/>
-   <br/>
- 
-#### :pencil2: Study log
- 
-  <br/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
