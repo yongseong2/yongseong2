@@ -6,7 +6,8 @@
   
   <br/>
   
-  [![Notion](https://img.shields.io/badge/-Notion-black?style=for-the-badge&logo=notion)](https://glorious-saturday-7de.notion.site/Seong-Yong-TIL-BLOG-7015d335e8db4e598b5531491db51162?pvs=4)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=react)](https://yongseong2.github.io/portfolio/)
+  
 
   ####  :clipboard: I've Used
   
