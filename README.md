@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=120&section=header&text=yongseong2&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
-  
 ####  :wave: Welcome my github profile !
   
 - 눈에 보이는 페이지에 생동감을 불어넣는 매력에 빠져 프론트엔드 개발자가 되었습니다.
@@ -12,7 +10,7 @@
   
 <br/>
   
-  ####  🛠  Skills
+####  🛠  Skills
 
 📕 **Language** : `Typescript` `Javascript(ES6)`
 
