@@ -16,9 +16,9 @@
 
 📗 **Framework/Library** : `React` `Next js` `Vue` `React Native` `Emotion` `SCSS` `HTML` `CSS`
 
-📙**State Management** : `Redux` `React-query` `Vuex`
+📙 **State Management** : `Redux` `React-query` `Vuex`
 
-📘**Package Manger** : `Yarn berry` `npm`
+📘 **Package Manger** : `Yarn berry` `npm`
 
-📔**Collaboration  & Tool** `Git` `Github` `Figma` `Gitlab` `VS Code`
+📔 **Collaboration  & Tool** `Git` `Github` `Figma` `Gitlab` `VS Code`
 
